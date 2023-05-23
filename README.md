@@ -92,8 +92,9 @@ Estrutura While
 ----
 fazendo com a estrutura While(enquanto) temos o seguinte resultado:
 
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/31f56879-0876-43c8-acd4-abf53abd3a9b)
 
-![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/b2b220fb-ebc6-481c-96e5-b977591c39e8)
+
 
 
 
