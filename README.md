@@ -213,6 +213,9 @@ podemos melhorar o código trazendo
 
 e para ficar mais interessante vamos usar-lo na linha de comando e teremos isso 
 
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/eeb14548-c670-4c2b-b225-98c2d720efa1)
+
+
 
 
 
