@@ -230,8 +230,16 @@ Tipos Primitivos
 
 ...
 ----
-...
+Scopo de variavel
 ---
+observer que a variavel x vai dar erro na linha 10
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/a1b8e620-6d3b-49bd-9dfe-a7ad63ce2b1b)
+
+isso porque ela foi declarada dentro do bloco então ela é uma váriavel local
+para que esse código venha funcionar teremos que declarar ela fora do bloco tornando ela uma variavel global
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/474d23b7-b096-4436-b6ab-5eb8713fdee6)
+
 ...
 ----
 
