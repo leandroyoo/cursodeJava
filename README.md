@@ -208,7 +208,8 @@ escrevendo ola mundo na variavel name do tipo string teremos com print ola mundo
 
 
 podemos melhorar o código trazendo
-![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/d71373af-face-4ebd-a4af-e9e54554ec90)
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/72d806fa-b4c4-439c-af01-6ff915b79aea)
+
 
 
 
