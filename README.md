@@ -290,9 +290,9 @@ Já obteremos exito porque dentro da mesma pasta a variavel declarada como defau
 
 Como resolver isso ?
 --
-Então para obtermos uma solução devemos mover para a pasta co.leandroariel o arquivo App
-entao teremos :
-
+ mover para a pasta co.leandroariel o arquivo App
+ ---
+ 
 
  No caminho co.leandroariel teremos o arquivo App.java
  
