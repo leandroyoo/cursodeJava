@@ -226,6 +226,14 @@ e para ficar mais interessante vamos usar-lo na linha de comando e teremos isso
 
 Tipos Primitivos
 -----
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/da8394a6-1cb5-48d1-83db-363b152b57b0)
+
+...
+----
+...
+---
+...
+----
 
 
 
