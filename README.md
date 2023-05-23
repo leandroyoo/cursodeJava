@@ -275,7 +275,11 @@ Como resolver isso ?
 --
 Então para obtermos uma solução devemos mover para a pasta co.leandroariel o arquivo App
 entao teremos :
+
+
  No caminho co.leandroariel teremos o arquivo App.java
+ 
+ 
  No caminho co.leandroariel.princiapal teremos o arquivo User.java
  
  
