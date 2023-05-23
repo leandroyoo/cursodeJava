@@ -7,7 +7,8 @@ Fiz um repositório na intenção de salvar meus projetos feitos na linguagem Ja
 
 **parte 1 do projeto
 -----
-![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/c245a491-3901-496e-a779-84674f2b4945)
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/9c41d20c-21b6-403a-9597-f6605f6cc148)
+
 -----
 
 
