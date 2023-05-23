@@ -140,3 +140,18 @@ Packpage User
 --
 ![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/5202c1ac-ec86-4159-948b-019279ebe897)
 
+quais são as diferenças
+--
+quando escrevemos user na tela principal(main) ele vai perguntar se queremos aquele que está na pasta do main ou na packpage
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/d555ef73-55b3-4b2b-a6ce-feeac1447397)
+
+se escolhermos a opção da packpage ele vai importar observer na linha 1 
+
+import co.leandroariel.principal.User;
+
+
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/d4395ad4-4c99-4a6d-856c-b7945091e9db)
+
+
