@@ -106,5 +106,37 @@ Estrutura for
 
 
 
+.
+----
 
+.
+----
+
+
+
+Importação e Packpages
+-----
+podemos importar os pacotes como podemos ver o import java.util.radom; 
+que é basicamente uma biblioteca java
+
+
+e podemos também criar um arquivo dentro da pastar src como exemplo User e usar ele no nosso projeto.
+
+e podemos também criar uma packpage para criar esse arquivo User e fazer a importação dele no programa principal.
+
+
+Main
+---
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/05dd4c6c-250c-4d86-80ae-9fc02aef0c5a)
+
+
+User
+---
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/b17f9702-1656-4301-953e-001958e1bebe)
+
+
+
+Packpage User
+--
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/5202c1ac-ec86-4159-948b-019279ebe897)
 
