@@ -157,3 +157,27 @@ acima temos o pacote e o nome da classe onde ele se encontra
 
 
 
+...
+---
+
+...
+---
+
+
+Java interativo
+----
+Vamos tornar o Java interativo primeiro importamos a bibliote Scanner
+
+linha 1 
+import  java.util.Scanner;
+
+depois declaramos ela no main 
+    Scanner scanner = new Scanner(System.in);
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/30724166-c71f-43d3-a3d1-1c409a0cf620)
+
+
+o scaner e uma classe do java que permite interagimos com ele.
+vamos ver como fazermos essa interação 
+
+
