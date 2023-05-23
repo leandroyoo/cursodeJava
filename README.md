@@ -150,8 +150,10 @@ se escolhermos a opção da packpage ele vai importar observer na linha 1
 
 import co.leandroariel.principal.User;
 
+User user = new User();
+acima temos o pacote e o nome da classe onde ele se encontra
 
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/e030156b-41bf-430b-9a63-53850b9ba003)
 
-![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/d4395ad4-4c99-4a6d-856c-b7945091e9db)
 
 
