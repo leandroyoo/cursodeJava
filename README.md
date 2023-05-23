@@ -246,7 +246,23 @@ para que esse código venha funcionar teremos que declarar ela fora do bloco tor
 ----
 Visibilidade
 ---
-O conceito de visibilidade serve basicamente a grosso modo como um conceito de permissões.
+
+Em Java, a visibilidade se refere ao controle de acesso aos membros (variáveis, métodos e classes) de uma classe. A visibilidade determina quais partes do código podem acessar esses membros.
+
+Existem quatro níveis de visibilidade em Java:
+
+Public: Membros declarados como públicos são acessíveis por qualquer classe. Isso significa que eles podem ser acessados a partir de qualquer parte do programa, mesmo de classes diferentes.
+
+Private: Membros declarados como privados só podem ser acessados dentro da própria classe em que foram declarados. Eles não podem ser acessados por outras classes, mesmo que estejam no mesmo pacote.
+
+Protected: Membros declarados como protegidos podem ser acessados pela classe em que foram declarados, pelas subclasses dessa classe e por outras classes no mesmo pacote. No entanto, eles não podem ser acessados por classes fora do pacote, a menos que haja uma relação de herança.
+
+Default (ou pacote): Se um membro não possui um modificador de visibilidade explícito, ele é considerado como tendo visibilidade padrão (ou de pacote). Membros com visibilidade de pacote podem ser acessados por outras classes no mesmo pacote, mas não podem ser acessados por classes fora do pacote.
+
+A escolha da visibilidade correta é importante para garantir a encapsulação adequada e controlar o acesso aos membros de uma classe. É uma prática recomendada definir a visibilidade mais restrita possível para os membros, a menos que haja uma necessidade específica de acesso mais amplo. Isso ajuda a promover a segurança, modularidade e manutenibilidade do código.
+
+
+
 
 se observamos o código
 
