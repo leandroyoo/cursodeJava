@@ -207,6 +207,14 @@ escrevendo ola mundo na variavel name do tipo string teremos com print ola mundo
 
 
 
+podemos melhorar o código trazendo
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/21b6f070-8ab4-40d3-9816-75f5a35605be)
+
+
+e para ficar mais interessante vamos usar-lo na linha de comando e teremos isso 
+
+
+
 
 
 
