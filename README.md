@@ -11,6 +11,8 @@ Fiz um repositório na intenção de salvar meus projetos feitos na linguagem Ja
 -----
 
 
+as  condições do else e  else if são para trazer para o projeto as estruturas condicionais que vão fazer a devida seleção de acordo com a seleção da respectiva função e sua passagem de parametro 
+
 
 
 **Como rodar um programa Java no Terminal
