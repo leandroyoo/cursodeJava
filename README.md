@@ -305,6 +305,9 @@ entao teremos :
 
 Então após isso declararemos a váriavel como publica observer na linha 7 
 
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/e94859c3-f330-4a05-b185-60acf1a6deb6)
+
+
 Depois disso não podemos esquecer de importar na User.java o arquivo App.java
 
 E também nao podemos esquecer de mover o house.java que também usará a variavel int x; para dentro da pasta co.leandroariel
