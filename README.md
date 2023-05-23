@@ -305,11 +305,14 @@ entao teremos :
 
 Então após isso declararemos a váriavel como publica observer na linha 7 
 
-![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/f9e4c880-80f5-4b0c-9b78-719af385bfe1)
-
 Depois disso não podemos esquecer de importar na User.java o arquivo App.java
 
 E também nao podemos esquecer de mover o house.java que também usará a variavel int x; para dentro da pasta co.leandroariel
+
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/f9e4c880-80f5-4b0c-9b78-719af385bfe1)
+
+
 
     Então poderemos acessar normalmente a váriavel int x do arquivo App.java no Aquivo User.java e na house.java
  
