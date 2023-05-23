@@ -33,6 +33,7 @@ então temos as funções de soma, subtração, divisão
 
 ![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/29907eba-1c3e-4bd1-a81f-606918d4d7d6)
 
+se observamos atentamente apos executar a função e passar seu respectivo parametro ele retorna o valor
 
 
 1 cd (caminho)
