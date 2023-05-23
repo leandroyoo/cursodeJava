@@ -7,8 +7,11 @@ Fiz um repositório na intenção de salvar meus projetos feitos na linguagem Ja
 
 **Como rodar um programa Java no Terminal
 1 cd (caminho)
+------
 2 javac calculate.java
+------
 3 dir
+------
 4 java calculate
 
 
