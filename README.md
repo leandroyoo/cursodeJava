@@ -268,8 +268,7 @@ observe:
 agora observe se acessarmos aquela mesma variavel em uma uma classe chamada house que será criada também em src 
 Já obteremos exito porque dentro da mesma pasta a variavel declarada como default consegue ser acessada 
 ![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/fb44b113-502d-478e-94d9-c827ff8ef9d4)
-.
---
+
 
 
 
