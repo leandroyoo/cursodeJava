@@ -290,14 +290,17 @@ Então após isso declararemos a váriavel como publica observer na linha 7
 
 ![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/e7a13cd0-e7aa-4a60-9012-9a90eeeb69a1)
 
+Depois disso não podemos esquecer de importar na User.java o arquivo App.java
+
+
 Então poderemos acessar normalmente a váriavel int x do arquivo App.java no Aquivo User.java
 
-    observer na linha 6 não há nenhum tipo de erro:
+    
     
 ![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/bc500186-aa0d-4c41-a178-3ac15370ca15)
 
  
-
+    observer na linha 6 não há nenhum tipo de erro:
 
 
 
