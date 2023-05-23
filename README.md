@@ -181,3 +181,36 @@ o scaner e uma classe do java que permite interagimos com ele.
 vamos ver como fazermos essa interação 
 
 
+
+usaremos o scanner com o método nextLine();
+
+nextLine espera um input de um novo dado
+
+ou seja a variavel  name do tipo String  vai se tornar um input
+
+   String name =  scanner.nextLine();
+
+e após isso se dermos um print 
+
+  System.out.println(name);
+
+ela vai escrever o dados que foi inserido nesse input
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/326847c2-40f1-4b6c-af67-ec9ca9885b85)
+
+
+
+em execução teremos o seguinte 
+escrevendo ola mundo na variavel name do tipo string teremos com print ola mundo
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/76df1db7-91ea-431f-b4f2-27debd117627)
+
+
+
+
+
+
+
+
+
+
