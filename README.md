@@ -73,3 +73,36 @@ se observamos atentamente apos executar a função e passar seu respectivo param
 ------
 4 java calculate
 -------
+
+
+
+
+
+
+
+
+
+
+//////
+
+
+Projeto da MegaSena (LOOPS)
+----
+Estrutura While
+----
+fazendo com a estrutura While(enquanto) temos o seguinte resultado:
+
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/b2b220fb-ebc6-481c-96e5-b977591c39e8)
+
+
+
+
+Estrutura for
+---
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/04efacc8-4144-4496-97e1-47048989badf)
+
+
+
+
+
