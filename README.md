@@ -244,6 +244,35 @@ para que esse código venha funcionar teremos que declarar ela fora do bloco tor
 
 ...
 ----
+Visibilidade
+---
+O conceito de visibilidade serve basicamente a grosso modo como um conceito de permissões.
+
+se observamos o código
+
+teremos a grosso modo uma variavel 
+da linha 4 
+static int x;
+essa variavel será acessada normalmente dentro da class App
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/5ca1dec1-aa97-49f3-a552-0073d2c6f538)
+
+Mas agora observe dentro de outro packpage como se comporta se tentarmos acessar a mesma váriavel
+ela não consiguirá acessar porque a variavel int x está declarada como (default) 
+observe:
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/fa27b4f3-dffd-4d06-a95d-21ca1f5c3aea)
+.
+--
+
+agora observe se acessarmos aquela mesma variavel em uma uma classe chamada house que será criada também em src 
+Já obteremos exito porque dentro da mesma pasta a variavel declarada como default consegue ser acessada 
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/fb44b113-502d-478e-94d9-c827ff8ef9d4)
+.
+--
+
+
+
 
 
 
