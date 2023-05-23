@@ -271,9 +271,28 @@ Já obteremos exito porque dentro da mesma pasta a variavel declarada como defau
 
 
 
+Como resolver isso ?
+--
+Então para obtermos uma solução devemos mover para a pasta co.leandroariel o arquivo App
+entao teremos :
+ No caminho co.leandroariel teremos o arquivo App.java
+ No caminho co.leandroariel.princiapal teremos o arquivo User.java
+ 
+ 
+ ![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/f2cde600-815b-41ed-b006-839890d05bd9)
 
 
+Então após isso declararemos a váriavel como publica observer na linha 7 
 
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/e7a13cd0-e7aa-4a60-9012-9a90eeeb69a1)
+
+Então poderemos acessar normalmente a váriavel int x do arquivo App.java no Aquivo User.java
+
+    observer na linha 6 não há nenhum tipo de erro:
+    
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/bc500186-aa0d-4c41-a178-3ac15370ca15)
+
+ 
 
 
 
