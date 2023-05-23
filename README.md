@@ -2,6 +2,24 @@
 Fiz um repositório na intenção de salvar meus projetos feitos na linguagem Java para poder consultar quando houver necessidade
 
 
+Meu Primeiro Programa
+---
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/b45c294f-5553-417a-9a19-dfe60138917f)
+
+
+Main = Principal
+*Ponto de entrada - entry point --> é o ponto onde todos sistemas dão inicio ao projeto
+
+*A programção se resume em manipular dados 
+*Dados são amarzenados em variáveis
+
+Metodos/Funções --> Métodos são instruções que definem para o programa executar 
+ex:
+system.out.println("");
+
+
+Propriedadadess/Váriaveis
+São onde iremos armazenar dadps pra manipurlarmos no futuro
 
 
 
