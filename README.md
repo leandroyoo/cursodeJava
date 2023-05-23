@@ -312,10 +312,6 @@ Depois disso não podemos esquecer de importar na User.java o arquivo App.java
 E também nao podemos esquecer de mover o house.java que também usará a variavel int x; para dentro da pasta co.leandroariel
 
     Então poderemos acessar normalmente a váriavel int x do arquivo App.java no Aquivo User.java e na house.java
-
-    
-    
-
  
     observer na linha 6 não há nenhum tipo de erro:
 
