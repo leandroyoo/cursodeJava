@@ -22,8 +22,15 @@ Propriedadadess/Váriaveis
 São onde iremos armazenar dadps pra manipurlarmos no futuro
 
 
+variaveis
+---
 
 
+tipos de erros
+---
+
+funções
+---
 
 Projeto da Calculadora
 ---
