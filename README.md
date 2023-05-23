@@ -290,14 +290,14 @@ Já obteremos exito porque dentro da mesma pasta a variavel declarada como defau
 
 Como resolver isso ?
 --
- mover para a pasta co.leandroariel o arquivo App
+ mover para a pasta co.leandroariel o arquivo App.java
  ---
  
 
  No caminho co.leandroariel teremos o arquivo App.java
  
  
- No caminho co.leandroariel.princiapal teremos o arquivo User.java
+ No caminho co.leandroariel.principal teremos o arquivo User.java
  
  
  ![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/f2cde600-815b-41ed-b006-839890d05bd9)
