@@ -322,6 +322,10 @@ E também nao podemos esquecer de mover o house.java que também usará a variav
     observer na linha 6 não há nenhum tipo de erro:
 
 
+Tipos Primitivos e Não primitivos
+---
+
+![image](https://github.com/leandroyoo/cursodeJava/assets/94478634/d98174cd-56f8-4c8d-aa6f-bda965854dc6)
 
 
 
